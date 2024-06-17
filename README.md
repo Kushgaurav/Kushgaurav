@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kushgaurav
-- 👀 I’m interested in any thing related to tech
-- 🌱 I’m currently learning C++ , C .
-- 📚 BCA student
+- 👀 I’m interested in devloping Web Sites and Web Apps 
+- 🌱 I’m currently Working in field of Web Development.
+- 📚 BCA Passout
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.google.com/search?q=intext%3Akush_gaurav
 @kush_gaurav
